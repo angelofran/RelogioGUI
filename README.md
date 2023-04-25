@@ -4,4 +4,4 @@
 
 <p>A parte legal desse programa é que temos um relógio de alteração autônoma. Exemplo em image:</p>
 
-<img src="./foto_test.png" alt="foto_teste">
+<img src="doc/foto_test.png" alt="foto_teste">
